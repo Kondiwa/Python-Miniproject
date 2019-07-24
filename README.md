@@ -1777,5 +1777,3 @@ grader.score.dw__rare_scripts(rare_scripts)
 ==================
 Your score:  1.0
 ==================
-
-Copyright © 2017 The Data Incubator. All rights reserved.
